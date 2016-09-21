@@ -1,0 +1,6 @@
+# IntelliJ IDEA files and folders
+.idea
+*.iml
+
+# Maven-specific files and folders
+target/
